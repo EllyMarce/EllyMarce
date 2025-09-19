@@ -1,7 +1,5 @@
 Hi there 👋
 ## My name is Gabrielly.
-I'm a software engineer, I love developing and I'm currently finishing university and taking some Oracle courses.
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EllyMarce&show_icons=true&theme=synthwave)
 
 <div style="display: inline_block"><br>
