@@ -1,5 +1,35 @@
 Hi there 👋
-## My name is Gabrielly.
+## Sou a Gabrielly.
+
+##Formação e Experiência
+
+#Formação
+Cursando Engenharia de Software
+Cursos pela Alura em parceria com a Oracle, com foco em:
+- HTML
+- CSS
+- JavaScript
+
+Curso básico de testes automatizados com Cypress.io
+
+#Experiência Profissional
+Início da carreira como Auxiliar de Suporte
+Evolução para os cargos de:
+- Analista Júnior
+- Analista Sênior
+- Analista Pleno
+
+#Principais atividades:
+- Análise de dados e logs com Kibana
+- Criação e manutenção de dashboards
+- Consultas e análise em bancos de dados
+- Integração e análise de APIs
+
+#Atuação Atual
+- Desenvolvedora Backend
+- Foco em Java com Spring Boot
+- Desenvolvimento de APIs RESTful e soluções escaláveis
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EllyMarce&show_icons=true&theme=synthwave)
 
 <div style="display: inline_block"><br>
