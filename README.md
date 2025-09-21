@@ -22,7 +22,6 @@ Atualmente sou desenvolvedora backend e faço alguns projetos e desenvolvimentos
 - Evolução para os cargos de:
   - Analista Júnior  
   - Analista Sênior  
-  - Analista Pleno
 
 ### Principais atividades
 - Análise de dados e logs com **Kibana**
