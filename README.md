@@ -2,6 +2,10 @@
 ## Sou a Gabrielly
 Atualmente sou desenvolvedora backend e faço alguns projetos e desenvolvimentos por diversão!
 
+---
+[![GitHub Streak](https://streak-stats.demolab.com?user=EllyMarce&theme=tokyonight)](https://git.io/streak-stats)
+---
+
 
 ## Formação e Experiência
 
@@ -30,10 +34,6 @@ Atualmente sou desenvolvedora backend e faço alguns projetos e desenvolvimentos
 - Desenvolvedora Backend
 - Foco em **Java com Spring Boot**
 - Desenvolvimento de **APIs RESTful** e soluções escaláveis
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=EllyMarce&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
