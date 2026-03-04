@@ -21,18 +21,21 @@ Atualmente sou desenvolvedora backend e faço alguns projetos e desenvolvimentos
 - Início da carreira como **Auxiliar de Suporte**
 - Evolução para os cargos de:
   - Analista Júnior  
-  - Analista Sênior  
+  - Analista Sênior
+  - Supervisora da equipe de Suporte
+  - Desenvolvedor Júnior
 
 ### Principais atividades
-- Análise de dados e logs com **Kibana**
-- Criação e manutenção de **dashboards**
-- Consultas e análise em **bancos de dados**
-- Integração e análise de **APIs**
+- Analise de código Java e correção de bugs;
+- Desenvolvimento de sistemas ETL;
+- Desenvolvimento de endpoints API;
 
 ### Atuação Atual
-- Desenvolvedora Backend
+- Desenvolvedora Backend Full-Stack Java
 - Foco em **Java com Spring Boot**
 - Desenvolvimento de **APIs RESTful** e soluções escaláveis
+- Foco em sistema ETL
+
 
 ---
 
