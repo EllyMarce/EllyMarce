@@ -11,19 +11,12 @@ Atualmente sou desenvolvedora backend e faço alguns projetos e desenvolvimentos
 
 ### Formação
 - Cursando **Engenharia de Software**
-- Cursos pela **Alura em parceria com a Oracle**, com foco em:
-  - HTML  
-  - CSS  
-  - JavaScript
-- Curso básico de testes automatizados com **Cypress.io**
 
 ### Experiência Profissional
 - Início da carreira como **Auxiliar de Suporte**
 - Evolução para os cargos de:
-  - Analista Júnior  
-  - Analista Sênior
   - Supervisora da equipe de Suporte
-  - Desenvolvedor Júnior
+  - Desenvolvedor Pleno
 
 ### Principais atividades
 - Analise de código Java e correção de bugs;
@@ -33,9 +26,7 @@ Atualmente sou desenvolvedora backend e faço alguns projetos e desenvolvimentos
 ### Atuação Atual
 - Desenvolvedora Backend Full-Stack Java
 - Foco em **Java com Spring Boot**
-- Desenvolvimento de **APIs RESTful** e soluções escaláveis
 - Foco em sistema ETL
-
 
 ---
 
@@ -51,14 +42,8 @@ Atualmente sou desenvolvedora backend e faço alguns projetos e desenvolvimentos
 ### Backend
 <div style="display: inline_block"><br> <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> <img align="center" alt="Groovy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg"> <img align="center" alt="Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg"> </div>
 
-### Testes
-<div style="display: inline_block"><br>
-  <img align="center" alt="Cypress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg">
-</div>
 
 ---
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 ## Contato
 
