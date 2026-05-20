@@ -58,6 +58,8 @@ Atualmente sou desenvolvedora backend e faço alguns projetos e desenvolvimentos
 
 ---
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 ## Contato
 
 <div>
