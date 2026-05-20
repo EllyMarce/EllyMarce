@@ -2,10 +2,6 @@
 ## Sou a Gabrielly
 Atualmente sou desenvolvedora backend e faço alguns projetos e desenvolvimentos por diversão!
 
----
-[![GitHub Streak](https://streak-stats.demolab.com?user=EllyMarce&theme=tokyonight)](https://git.io/streak-stats)
----
-
 
 ## Formação e Experiência
 
@@ -13,20 +9,13 @@ Atualmente sou desenvolvedora backend e faço alguns projetos e desenvolvimentos
 - Cursando **Engenharia de Software**
 
 ### Experiência Profissional
-- Início da carreira como **Auxiliar de Suporte**
-- Evolução para os cargos de:
   - Supervisora da equipe de Suporte
-  - Desenvolvedor Pleno
-
-### Principais atividades
-- Analise de código Java e correção de bugs;
-- Desenvolvimento de sistemas ETL;
-- Desenvolvimento de endpoints API;
+  - Desenvolvedor Pleno 
 
 ### Atuação Atual
-- Desenvolvedora Backend Full-Stack Java
+- Desenvolvedora Backend Stack Java
 - Foco em **Java com Spring Boot**
-- Foco em sistema ETL
+- Sistemas Integrados
 
 ---
 
